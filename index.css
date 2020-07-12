@@ -9,9 +9,12 @@ h1{
 }
 
 .test-box{
-    border: 1px solid rgb(216, 201, 191);
+    border: 1px solid khaki;
     padding: 1px;
     margin: 20px;
-    background-color: rgb(216, 201, 191);
-    
+    background-color: khaki; 
+}
+.sidebar{
+float: right;
+background-color: khaki;
 }
