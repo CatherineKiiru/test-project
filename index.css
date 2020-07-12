@@ -1,12 +1,17 @@
 h1{
-    color: blue;
+    color: black;
 }
 .important{
-    color:red;
+    color:black;
 }
 .unimportant{
-    color: blue;
+    color: black;
 }
-img{
-    float: right;
+
+.test-box{
+    border: 1px solid rgb(216, 201, 191);
+    padding: 1px;
+    margin: 20px;
+    background-color: rgb(216, 201, 191);
+    
 }
