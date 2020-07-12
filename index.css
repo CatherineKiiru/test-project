@@ -6,4 +6,7 @@ h1{
 }
 .unimportant{
     color: blue;
-    
+}
+img{
+    float: right;
+}
